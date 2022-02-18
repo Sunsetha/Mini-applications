@@ -1,4 +1,4 @@
-[1:24 PM, 2/17/2022] Sunshetha☺️: import java.util.*;
+import java.util.*;
 public class amazon_app {
     private static Scanner scan;
     static int index=0,newmerchcount=0,userid=95,user_index=0,order_id=0;
